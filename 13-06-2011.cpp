@@ -27,7 +27,7 @@ int main(){
     do{
         cout<<"MENU"<<endl;
         cout<<"a: aggiungi un nuovo compito da svolgere"<<endl;
-        cout<<"u: elimina il compito più urgente"<<endl;
+        cout<<"u: elimina il compito piÃ¹ urgente"<<endl;
         cout<<"e: elimina un particolare elemento"<<endl;
         cout<<"v: visualizza tutti i compiti da svolgere"<<endl;
         cout<<"scelga"<<endl;
@@ -143,3 +143,5 @@ while(p0!=0){
     p0=p0->succ;
 }
 }
+
+//coded by DarkCerfa
